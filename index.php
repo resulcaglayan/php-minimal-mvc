@@ -1,0 +1,8 @@
+<?php
+///////////////////////////////////////////////////
+// Author: Resul ÇAĞLAYAN
+// Project: MVC Framework
+///////////////////////////////////////////////////
+require_once('system/config.php');
+require_once(DIR_SYS . 'startup.php');
+start('default');
